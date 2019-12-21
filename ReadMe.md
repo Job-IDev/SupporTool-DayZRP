@@ -1,7 +1,7 @@
 Thanks for using my tool.
 To install you need to do the following steps:
 
-==========================================================================================
+=============================================================================
 
 Download chromedriver from this website:
 https://chromedriver.chromium.org/downloads
@@ -15,7 +15,7 @@ In order to make use of this tool you need to install python.
 The tool was made in python 3.7 so anything above this will work.
 https://www.python.org/downloads/
 
-===========================================================================================
+=============================================================================
 
 After you have downloaded python you need to start CMD.
 
@@ -31,7 +31,7 @@ py -m pip install --user selenium
 
 py -m pip install --user PySimpleGUI
 
-============================================================================================
+============================================================================
 
 After this the installment is finished.
 
@@ -45,13 +45,13 @@ Now click and run the SupportTool.py file. This will make a console popup and st
 
 To use this fill in your username and your password in the console that popped up.
 
-============================================================================================
+============================================================================
 
 Please do not move the pythonfile out of the original folder unless you move every file with it.
 
 The pythonfile will otherwise not work.
 
-============================================================================================
+============================================================================
 
 Disclaimer
 
