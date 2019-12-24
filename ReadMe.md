@@ -1,4 +1,4 @@
-Thanks for using my tool.
+This is the installation guide for my Character Pages support tool.
 To install you need to do the following steps:
 
 =============================================================================
